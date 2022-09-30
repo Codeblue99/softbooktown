@@ -1,0 +1,22 @@
+[26-Feb-2022 12:09:09 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/softbooktown/public_html/user_login.php on line 61
+[27-Feb-2022 09:39:56 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/softbooktown/public_html/aa.php on line 1
+[27-Feb-2022 09:40:00 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/softbooktown/public_html/aa.php on line 1
+[27-Feb-2022 09:40:07 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/softbooktown/public_html/aa.php on line 1
+[27-Feb-2022 09:40:15 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/softbooktown/public_html/aa.php on line 1
+[08-Mar-2022 14:02:52 UTC] PHP Warning:  Use of undefined constant PHPversion - assumed 'PHPversion' (this will throw an Error in a future version of PHP) in /home/softbooktown/public_html/aa.php on line 3
+[08-Mar-2022 14:03:07 UTC] PHP Warning:  Use of undefined constant PHPversion - assumed 'PHPversion' (this will throw an Error in a future version of PHP) in /home/softbooktown/public_html/aa.php on line 3
+[08-Mar-2022 14:03:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/softbooktown/public_html/aa.php on line 3
+[08-Mar-2022 14:06:51 UTC] PHP Parse error:  syntax error, unexpected '>', expecting end of file in /home/softbooktown/public_html/user_login.php on line 5
+[08-Mar-2022 14:08:47 UTC] PHP Warning:  Unterminated comment starting line 8 in /home/softbooktown/public_html/user_login.php on line 8
+[27-Mar-2022 14:11:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHP() in /home/softbooktown/public_html/softbooktownc.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/softbooktown/public_html/softbooktownc.php on line 3
+[27-Mar-2022 14:11:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHP() in /home/softbooktown/public_html/softbooktownc.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/softbooktown/public_html/softbooktownc.php on line 3
+[27-Mar-2022 14:11:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function version() in /home/softbooktown/public_html/softbooktownc.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/softbooktown/public_html/softbooktownc.php on line 3
