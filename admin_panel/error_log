@@ -1,0 +1,7 @@
+[14-Nov-2021 14:29:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/razakaar/public_html/soft_book_town/admin_panel/header.php on line 1
+[16-Nov-2021 16:40:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/razakaar/public_html/soft_book_town/admin_panel/header.php on line 1
+[17-Nov-2021 09:02:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/razakaar/public_html/soft_book_town/admin_panel/header.php on line 1
+[17-Nov-2021 13:39:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/razakaar/public_html/soft_book_town/admin_panel/header.php on line 1
+[17-Nov-2021 17:24:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/razakaar/public_html/soft_book_town/admin_panel/header.php on line 1
+[17-Nov-2021 17:37:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/razakaar/public_html/soft_book_town/admin_panel/header.php on line 1
+[18-Nov-2021 14:31:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/razakaar/public_html/soft_book_town/admin_panel/header.php on line 1
